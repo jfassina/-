@@ -1,0 +1,66 @@
+@font-face {
+    font-family: "Glifos";
+    src: url("../font/NotoSansLinearB-Regular.ttf");
+
+}
+@font-face{
+    font-family: "Macaco";
+    src: url(../font/NotoSansNabataean-Regular.ttf);
+}
+@font-face{
+font-family: "Pau Cin Hau";
+src: url(../font/NotoSansPauCinHau-Regular.ttf);
+
+}
+
+
+h1{
+    margin: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-bottom: 12px dashed pink;
+    border-radius: 100px;
+    text-align: center;
+    padding: 10px;
+    font-family: Macaco;
+    border-bottom-right-radius: 0px;
+    font-size: 50px;
+
+
+}
+p{
+    font-family: Glifos;;
+
+
+
+}
+body{
+background-image: url(../imagens/5w7v7151lsz71.webp);
+background-repeat: no-repeat;
+background-size: 100%;
+
+}
+.normal{
+    border-radius: 10px;
+    border: 10px solid red;
+background-image: url(../imagens/paranaue.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+opacity: 30%;
+color: white;
+
+}
+
+h2{
+
+font-family: Pau Cin Hau;
+
+}
+.penis{
+opacity: 100%;
+color: red;
+margin-left: 10%;
+margin-inline-start: 10%;
+background-image: url(../imagens/topilusoes.jpg);
+}
